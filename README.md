@@ -1,5 +1,7 @@
 # Researcher
 
+*Note from dylanclark*: This fork of [hugo-researcher](https://github.com/ojroques/hugo-researcher) exists to change the font from Inconsolata to Noto-Sans and change the accent color from red to blue
+
 A simple monospaced resume theme for Hugo. It was ported from Jekyll theme
 [ankitsultana/researcher](https://github.com/ankitsultana/researcher).
 
