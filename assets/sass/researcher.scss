@@ -36,7 +36,7 @@ $y-medium: 1.0rem;
 // Style
 * {
     color: $black;
-    font-family: "Noto Sans";
+    font-family: "Noto Serif";
     line-height: 1.4;
 }
 .container {
@@ -44,6 +44,7 @@ $y-medium: 1.0rem;
 }
 .navbar-brand {
     @extend %link-dark;
+    font-family: "Noto Sans";
     font-size: 2rem;
 }
 .nav-link {
@@ -57,6 +58,7 @@ $y-medium: 1.0rem;
         margin-bottom: $y-small;
     }
     h1, h2, h3, h4, h5, h6 {
+        font-family: "Noto Sans";
         font-size: medium;
         font-weight: bold;
         margin: $y-medium 0 $y-small 0;
